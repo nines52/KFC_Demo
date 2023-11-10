@@ -1,0 +1,2806 @@
+.www-kfc-com-au-by {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div {
+  background-color: var(--x-1nero);
+  height: 4800.7px;
+  position: relative;
+  width: 1499.5px;
+}
+
+.www-kfc-com-au-by .div-kfc-banner-image {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  left: 0;
+  padding: 9px 498.54px 9px 498.53px;
+  position: absolute;
+  top: 0;
+  width: 1482px;
+}
+
+.www-kfc-com-au-by .img-margin {
+  align-self: stretch;
+  margin-top: -1px;
+  object-fit: cover;
+  position: relative;
+  width: 23px;
+}
+
+.www-kfc-com-au-by .div-setlocationtext {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 32px;
+  padding: 5px 1.44px 3px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--x-1shark);
+  display: -webkit-box;
+  font-family: "Inter", Helvetica;
+  font-size: 13.2px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .button-close-margin {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 23px;
+  position: relative;
+  width: 122px;
+}
+
+.www-kfc-com-au-by .button-close {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1nero);
+  border-radius: 16px;
+  box-shadow: inset 0px 0px 0px 0.96px #202124;
+  display: flex;
+  flex-direction: column;
+  height: 32px;
+  overflow: hidden;
+  padding: 5px 14.9px 5px 15.1px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .text-wrapper-2 {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 11.6px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .presentation {
+  border-color: var(--x-1alto);
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 1500px;
+}
+
+.www-kfc-com-au-by .main {
+  height: 3983px;
+  left: 0;
+  position: absolute;
+  top: 219px;
+  width: 1500px;
+}
+
+.www-kfc-com-au-by .div-slick-slider {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1500px;
+}
+
+.www-kfc-com-au-by .div-slick-list {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 630px;
+  overflow: hidden;
+  padding: 0px 0px 0px 6000.5px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-slick-track {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -7500.5px;
+  margin-right: -7500.5px;
+  padding: 0px 7500px 0px 1500px;
+  position: relative;
+  width: 10500px;
+}
+
+.www-kfc-com-au-by .div-slick-slide {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 1px;
+  position: relative;
+  width: 1500px;
+}
+
+.www-kfc-com-au-by .clickable-image {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(180deg, rgba(32, 33, 36, 0) 21.45%, rgba(32, 33, 36, 0.6) 98.01%);
+  background-image: url(../../../static/img/clickable-image.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  height: 630px;
+  padding: 0px 160px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-market-hero {
+  flex: 1;
+  flex-grow: 1;
+  max-width: 1180px;
+  position: relative;
+  width: 1180px;
+}
+
+.www-kfc-com-au-by .div-color-white {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  padding: 0px 0px 22.8px;
+  position: absolute;
+  top: 210px;
+  width: 1140px;
+}
+
+.www-kfc-com-au-by .div-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 1043px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .text-wrapper-3 {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 10.8px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .element-GIANT-SNACK-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  padding: 0px 63px 0px 0px;
+  position: absolute;
+  top: 253px;
+  width: 580px;
+}
+
+.www-kfc-com-au-by .element-GIANT-SNACK {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 48.1px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  line-height: 78px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-color-white-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  padding: 0px 0px 40px;
+  position: absolute;
+  top: 566px;
+  width: 580px;
+}
+
+.www-kfc-com-au-by .div-color-white-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-width: 580px;
+  padding: 0px 381px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .p {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 12.9px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .button-order-now-for {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 94px;
+  left: 20px;
+  padding: 20px 0px 30px;
+  position: absolute;
+  top: 409px;
+  width: 200px;
+}
+
+.www-kfc-com-au-by .button-order-now-for-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1monza);
+  border-radius: 22.4px;
+  display: flex;
+  flex-direction: column;
+  height: 44px;
+  min-width: 164.8px;
+  padding: 0px 65.4px 0px 65.6px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .text-wrapper-4 {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 13.3px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .list {
+  height: 46px;
+  left: 160px;
+  position: absolute;
+  top: 500px;
+  width: 1180px;
+}
+
+.www-kfc-com-au-by .item {
+  align-items: center;
+  display: inline-flex;
+  left: 20px;
+  position: absolute;
+  top: 0;
+}
+
+.www-kfc-com-au-by .SVG {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.www-kfc-com-au-by .overlap-group {
+  background-image: url(../../../static/img/vector-1.svg);
+  background-size: 100% 100%;
+  height: 38px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 38px;
+}
+
+.www-kfc-com-au-by .vector {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.www-kfc-com-au-by .text-wrapper-5 {
+  color: var(--x-1nero);
+  font-family: var(--1-inter-regular-10-font-family);
+  font-size: var(--1-inter-regular-10-font-size);
+  font-style: var(--1-inter-regular-10-font-style);
+  font-weight: var(--1-inter-regular-10-font-weight);
+  left: 14px;
+  letter-spacing: var(--1-inter-regular-10-letter-spacing);
+  line-height: var(--1-inter-regular-10-line-height);
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.www-kfc-com-au-by .item-button-slide {
+  align-items: center;
+  border: 2px solid;
+  border-color: var(--x-1nero);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  left: 75px;
+  opacity: 0.5;
+  padding: 10.5px 12.9px 7.5px 13.1px;
+  position: absolute;
+  top: 6px;
+  width: 40px;
+}
+
+.www-kfc-com-au-by .text-wrapper-6 {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 10.7px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -2px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .item-button-slide-2 {
+  align-items: center;
+  border: 2px solid;
+  border-color: var(--x-1nero);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  left: 130px;
+  opacity: 0.5;
+  padding: 10.5px 12.91px 7.5px 13.09px;
+  position: absolute;
+  top: 6px;
+  width: 40px;
+}
+
+.www-kfc-com-au-by .div-promosrewards {
+  align-items: center;
+  background-color: var(--x-1nero);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  left: 0;
+  position: absolute;
+  top: 630px;
+  width: 1500px;
+}
+
+.www-kfc-com-au-by .div-promoscard {
+  height: 114px;
+  max-width: 1180px;
+  position: relative;
+  width: 1180px;
+}
+
+.www-kfc-com-au-by .div-hd-fa {
+  height: 33px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1157px;
+}
+
+.www-kfc-com-au-by .heading-wrapper {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  left: 17px;
+  padding: 0px 654.43px 8px 0px;
+  position: absolute;
+  top: 63px;
+  width: 935px;
+}
+
+.www-kfc-com-au-by .div-wrapper-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.www-kfc-com-au-by .promos-rewards {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 25.1px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: 43px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-start-order {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--x-1monza);
+  display: flex;
+  height: 68px;
+  justify-content: center;
+  padding: 7.49px 590px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-headbottomparent {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-headbottomtxt {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  min-width: 139.7px;
+  padding: 16.51px 14.7px 16.51px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-7 {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 11.7px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .button-start-order {
+  align-items: center;
+  background-color: var(--x-1nero);
+  border-radius: 22.4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 44px;
+  min-width: 164.8px;
+  padding: 0px 40px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-8 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--x-1shark);
+  display: -webkit-box;
+  font-family: "Inter", Helvetica;
+  font-size: 13.5px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-hd-adacbe {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 159.75px;
+  position: absolute;
+  top: 893px;
+  width: 1500px;
+}
+
+.www-kfc-com-au-by .div-browse-menu {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  max-width: 1180px;
+  padding: 0px 20px;
+  position: relative;
+  width: 1180px;
+}
+
+.www-kfc-com-au-by .div-browse-menu-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 34px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .span {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 180.73px 0px 0px;
+  position: relative;
+  width: 550.73px;
+}
+
+.www-kfc-com-au-by .text-wrapper-9 {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 24.5px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: 43px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-browse-menu-3 {
+  border-color: var(--x-1mercury);
+  border-top-style: solid;
+  border-top-width: 2px;
+  flex: 1;
+  flex-grow: 1;
+  height: 2px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-browse-menu-item {
+  align-self: stretch;
+  height: 1176.53px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .link {
+  align-items: flex-start;
+  background-color: var(--x-1pampas);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: -1px;
+  position: absolute;
+  top: 0;
+  width: 561px;
+}
+
+.www-kfc-com-au-by .webtile-MB {
+  align-self: stretch;
+  background-image: url(../../../static/img/webtile-960x720px-mb-v2-jpg.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 420.69px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-browse-lto-name {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  height: 160px;
+  justify-content: center;
+  padding: 43px 203.46px 43px 203.44px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .span-browse-lto {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0.41px 0px 0.61px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .featured-offers {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 15.6px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 74px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .link-2 {
+  align-items: flex-start;
+  background-color: var(--x-1pampas);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: 580px;
+  padding: 0px 0px 3.5px;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.www-kfc-com-au-by .category-app {
+  align-self: stretch;
+  background-image: url(../../../static/img/category-app-everyday-online-deals-range-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 202.84px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-browse-item-name {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1pampas);
+  display: flex;
+  height: 74px;
+  justify-content: center;
+  padding: 24.5px 54.46px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .span-browse-item {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0.17px 0px 0.37px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-10 {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 11.7px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 25px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .link-3 {
+  align-items: flex-start;
+  background-color: var(--x-1pampas);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: 870px;
+  padding: 0px 0px 3.5px;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.www-kfc-com-au-by .microsoftteams-image {
+  align-self: stretch;
+  background-image: url(../../../static/img/microsoftteams-image-12-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 202.84px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .span-browse-item-wrapper {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1pampas);
+  display: flex;
+  height: 74px;
+  justify-content: center;
+  padding: 24.5px 97.13px 24.5px 97.33px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-wrapper-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.www-kfc-com-au-by .link-4 {
+  align-items: flex-start;
+  background-color: var(--x-1pampas);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.01px;
+  left: 580px;
+  padding: 0px 0px 3.49px;
+  position: absolute;
+  top: 300px;
+  width: 270px;
+}
+
+.www-kfc-com-au-by .element-category-app {
+  align-self: stretch;
+  background-image: url(../../../static/img/3d-category-app-shared-meals-variety-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 202.84px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-browse-item-name-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1pampas);
+  display: flex;
+  height: 74px;
+  justify-content: center;
+  padding: 24.5px 86.13px 24.5px 86.33px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .link-5 {
+  align-items: flex-start;
+  background-color: var(--x-1pampas);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.01px;
+  left: 870px;
+  padding: 0px 0px 3.49px;
+  position: absolute;
+  top: 300px;
+  width: 270px;
+}
+
+.www-kfc-com-au-by .element-category-app-box {
+  align-self: stretch;
+  background-image: url(../../../static/img/3d-category-app-box-meals-ultimate-box-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 202.84px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-browse-item-name-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1pampas);
+  display: flex;
+  height: 74px;
+  justify-content: center;
+  padding: 24.5px 91.37px 24.5px 91.09px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .boxed-meals {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 25px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .link-6 {
+  align-items: flex-start;
+  background-color: var(--x-1pampas);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: -1px;
+  position: absolute;
+  top: 601px;
+  width: 270px;
+}
+
+.www-kfc-com-au-by .element-d-category-app {
+  align-self: stretch;
+  background-image: url(../../../static/img/3d-category-app-chicken-original-recipe-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 202.84px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-browse-item-name-4 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1pampas);
+  display: flex;
+  height: 74px;
+  justify-content: center;
+  padding: 24.5px 106.63px 24.5px 106.82px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .link-7 {
+  align-items: flex-start;
+  background-color: var(--x-1pampas);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: 290px;
+  position: absolute;
+  top: 601px;
+  width: 270px;
+}
+
+.www-kfc-com-au-by .element-category-app-2 {
+  align-self: stretch;
+  background-image: url(../../../static/img/3d-category-app-burgers-zinger-crunch-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 202.84px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-browse-item-name-5 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1pampas);
+  display: flex;
+  height: 74px;
+  justify-content: center;
+  padding: 24.5px 104.64px 24.5px 104.82px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .burgers {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 12.1px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 25px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .link-8 {
+  align-items: flex-start;
+  background-color: var(--x-1pampas);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: 580px;
+  position: absolute;
+  top: 601px;
+  width: 270px;
+}
+
+.www-kfc-com-au-by .element-category-app-3 {
+  align-self: stretch;
+  background-image: url(../../../static/img/3d-category-app-bowls-twisters-twister-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 202.84px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-browse-item-name-6 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1pampas);
+  display: flex;
+  height: 74px;
+  justify-content: center;
+  padding: 24.5px 72.39px 24.5px 72.38px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .twisters-bowls-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0.25px 0px 0.44px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .link-9 {
+  align-items: flex-start;
+  background-color: var(--x-1pampas);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: 870px;
+  position: absolute;
+  top: 601px;
+  width: 270px;
+}
+
+.www-kfc-com-au-by .element-category-app-4 {
+  align-self: stretch;
+  background-image: url(../../../static/img/3d-category-app-snacks-go-bucket-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 202.84px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-browse-item-name-7 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1pampas);
+  display: flex;
+  height: 74px;
+  justify-content: center;
+  padding: 24.5px 63.12px 24.5px 63.33px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .snacks-kids-meals {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 11.8px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 25px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .link-10 {
+  align-items: flex-start;
+  background-color: var(--x-1pampas);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.01px;
+  left: -1px;
+  padding: 0px 0px 2.15px;
+  position: absolute;
+  top: 898px;
+  width: 270px;
+}
+
+.www-kfc-com-au-by .element-category-app-5 {
+  align-self: stretch;
+  background-image: url(../../../static/img/3d-category-app-sides-range-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 202.84px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-browse-item-name-8 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1pampas);
+  display: flex;
+  height: 74px;
+  justify-content: center;
+  padding: 24.5px 116.13px 24.5px 116.32px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .sides {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 25px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .link-11 {
+  align-items: flex-start;
+  background-color: var(--x-1pampas);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.01px;
+  left: 290px;
+  padding: 0px 0px 2.15px;
+  position: absolute;
+  top: 898px;
+  width: 270px;
+}
+
+.www-kfc-com-au-by .element-category-app-6 {
+  align-self: stretch;
+  background-image: url(../../../static/img/3d-category-app-drinks-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 202.84px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-browse-item-name-9 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1pampas);
+  display: flex;
+  height: 74px;
+  justify-content: center;
+  padding: 24.5px 110.63px 24.5px 110.83px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .drinks {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 12.4px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 25px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .img {
+  display: block;
+  height: 279px;
+  left: 580px;
+  object-fit: cover;
+  position: absolute;
+  top: 898px;
+  width: 561px;
+}
+
+.www-kfc-com-au-by .div-hd-df {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 299.9px;
+  position: absolute;
+  top: 2267px;
+  width: 1500px;
+}
+
+.www-kfc-com-au-by .div-banner-component {
+  background-color: var(--x-1pampas);
+  height: 503px;
+  max-width: 900px;
+  position: relative;
+  width: 899.7px;
+}
+
+.www-kfc-com-au-by .div-banner-component-2 {
+  height: 513px;
+  left: 20px;
+  position: relative;
+  width: 860px;
+}
+
+.www-kfc-com-au-by .div-brand-headline {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 146px;
+  padding: 0px 51.1px 0px 51.31px;
+  position: absolute;
+  top: 50px;
+  width: 567px;
+}
+
+.www-kfc-com-au-by .GET-YOUR-KFC-YOUR {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 41.8px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: 68px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-icon-section {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  left: 146px;
+  padding: 0px 0.04px 0px 0px;
+  position: absolute;
+  top: 226px;
+  width: 567px;
+}
+
+.www-kfc-com-au-by .div-icon-wrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 58.55px;
+  position: relative;
+  width: 202.51px;
+}
+
+.www-kfc-com-au-by .div-icon-wrapper-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  padding: 7px 0px 0px 0.6px;
+  position: relative;
+  width: 85.4px;
+}
+
+.www-kfc-com-au-by .img-2 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-11 {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 10.8px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  line-height: 20px;
+  margin-left: -0.6px;
+  margin-right: -0.6px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-icon-wrapper-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 58.55px 0px 58.55px;
+  position: relative;
+  width: 180.11px;
+}
+
+.www-kfc-com-au-by .div-icon-wrapper-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 21px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-icon-title {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 2.9px 0px 3.1px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-12 {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 11.2px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-icon-wrapper-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 58.28px 0px 58.48px;
+  position: relative;
+  width: 184.76px;
+}
+
+.www-kfc-com-au-by .div-icon-wrapper-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-13 {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 10.9px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .button-find-a-store {
+  align-items: flex-start;
+  background-color: var(--x-1black);
+  border-radius: 22.4px;
+  display: inline-flex;
+  height: 44px;
+  justify-content: center;
+  left: 347px;
+  min-width: 164.8px;
+  padding: 10px 40px;
+  position: absolute;
+  top: 419px;
+}
+
+.www-kfc-com-au-by .link-find-a-store {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--x-1nero);
+  display: -webkit-box;
+  font-family: "Inter", Helvetica;
+  font-size: 13.3px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-downloadapp {
+  align-items: center;
+  background-color: var(--x-1shark);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 159.75px;
+  position: absolute;
+  top: 2850px;
+  width: 1500px;
+}
+
+.www-kfc-com-au-by .div-grid-container {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20.99px;
+  max-width: 1180px;
+  padding: 0px 20px;
+  position: relative;
+  width: 1180px;
+}
+
+.www-kfc-com-au-by .div-stri-ICON {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 1084px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .element-strips-png {
+  background-image: url(../../../static/img/3-strips-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 34px;
+  position: relative;
+  width: 56px;
+}
+
+.www-kfc-com-au-by .div-app-detail {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-col-xl-margin {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  max-width: 778.27px;
+  padding: 0px 167.52px 0px 0px;
+  position: relative;
+  width: 778.27px;
+}
+
+.www-kfc-com-au-by .div-col-xl {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 35.74px;
+  max-width: 610.75px;
+  padding: 66px 15px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-title {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 0px 88.85px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .DOWNLOAD-THE-NEW-KFC {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 41.1px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: 68px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-store-img {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 0px 313.75px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .link-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 11.91px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .link-12 {
+  display: block;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.www-kfc-com-au-by .link-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: 0px;
+  padding: 0px 11.91px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-col-xl-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: -242.04px;
+  max-width: 603.77px;
+  padding: 0px 167.52px 0px 0px;
+  position: relative;
+  width: 603.77px;
+}
+
+.www-kfc-com-au-by .group-png-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 436.25px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .group-png {
+  background-image: url(../../../static/img/group-4974-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 465px;
+  margin-right: -9.75px;
+  position: relative;
+  width: 446px;
+}
+
+.www-kfc-com-au-by .div-kfc {
+  background-color: var(--x-1monza);
+  height: 613px;
+  left: 0;
+  position: absolute;
+  top: 3370px;
+  width: 1500px;
+}
+
+.www-kfc-com-au-by .overlap {
+  height: 89px;
+  left: 460px;
+  position: absolute;
+  top: -3px;
+  width: 580px;
+}
+
+.www-kfc-com-au-by .div-signmeupbanner {
+  height: 79px;
+  left: 262px;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.www-kfc-com-au-by .div-headline {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 20px;
+  left: 0;
+  padding: 2px 0px 0px;
+  position: absolute;
+  top: 69px;
+  width: 580px;
+}
+
+.www-kfc-com-au-by .p-signmeupbanner {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -2px;
+  padding: 0px 224.4px 0px 224.6px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .text-wrapper-14 {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 10.4px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .heading-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 455px;
+  max-width: 590px;
+  padding: 0px 0px 10.4px;
+  position: absolute;
+  top: 96px;
+}
+
+.www-kfc-com-au-by .heading {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  max-width: 590px;
+  padding: 0px 34.4px 0px 34.6px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .UNLOCK-MORE-FINGER {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 42.2px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: 68px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-signmeupbanner-2 {
+  height: 190px;
+  left: 637px;
+  position: absolute;
+  top: 423px;
+  width: 225px;
+}
+
+.www-kfc-com-au-by .p-signmeupbanner-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 575px;
+  padding: 10px 0px 6px;
+  position: absolute;
+  top: 243px;
+  width: 350px;
+}
+
+.www-kfc-com-au-by .create-an-account-to-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 0px 1.91px 0px 2.09px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .create-an-account-to {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .button-sign-me-up {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 116px;
+  left: 667px;
+  min-width: 164.8px;
+  padding: 32px 0px 40px;
+  position: absolute;
+  top: 307px;
+}
+
+.www-kfc-com-au-by .button-sign-me-up-2 {
+  align-items: center;
+  background-color: var(--x-1black);
+  border-radius: 22.4px;
+  display: inline-flex;
+  flex-direction: column;
+  height: 44px;
+  min-width: 164.8px;
+  padding: 0px 40px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-15 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--x-1nero);
+  display: -webkit-box;
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .footer-footer {
+  align-items: center;
+  background-color: var(--x-1shark);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 80px 159.75px 0px;
+  position: absolute;
+  top: 4202px;
+  width: 1500px;
+}
+
+.www-kfc-com-au-by .div-grid-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 68.39px;
+  max-width: 1180px;
+  padding: 22.79px 20.01px 0.01px 20px;
+  position: relative;
+  width: 1180px;
+}
+
+.www-kfc-com-au-by .div-row {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 14.7px 0px;
+  height: 354px;
+  justify-content: space-between;
+  padding: 0px 14.69px 0px 14.68px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-header-logo {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2.27px 0px 159.59px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .img-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 0px 0px 132.13px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-category-items {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 77.86px 0px 68.4px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-category-items-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 0px 25.99px 0px 25.95px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-ul-title {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  padding: 0px 0px 219px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .group-menu {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .list-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .link-menu-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 96px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-16 {
+  color: var(--x-1mercury);
+  font-family: "Inter", Helvetica;
+  font-size: 12.9px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .link-catering-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 78px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-17 {
+  color: var(--x-1mercury);
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .item-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 7px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .link-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.www-kfc-com-au-by .nutrition-allergen {
+  color: var(--x-1mercury);
+  font-family: "Inter", Helvetica;
+  font-size: 13.6px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-ul-title-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: -3.81e-6px;
+  padding: 0px 0px 272px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-18 {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 13.5px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .link-FAQ-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 104px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .link-FAQ {
+  color: var(--x-1mercury);
+  font-family: "Inter", Helvetica;
+  font-size: 13.5px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .link-contact-KFC-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 53px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-ul-title-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: -3.81e-6px;
+  padding: 0px 0px 16px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .item-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 5px 3.86px 5px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .link-14 {
+  align-items: center;
+  display: inline-flex;
+  height: 14px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-19 {
+  color: var(--x-1mercury);
+  font-family: "Inter", Helvetica;
+  font-size: 13.2px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  margin-bottom: -4px;
+  margin-top: -6px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .vector-svg {
+  flex: 0 0 auto;
+  margin-left: -0.86px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .link-KFC-delivery-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 51px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .link-KFC-app-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 77px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .item-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 46px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .link-social-impact {
+  color: var(--x-1mercury);
+  font-family: "Inter", Helvetica;
+  font-size: 13.3px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .link-our-history-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 59px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-20 {
+  color: var(--x-1mercury);
+  font-family: "Inter", Helvetica;
+  font-size: 13.2px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .link-myth-busters-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 49px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .link-finger-lickin-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 12px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .item-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 60px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .KFC-youth-foundation {
+  color: var(--x-1mercury);
+  font-family: "Inter", Helvetica;
+  font-size: 13.3px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .link-KFC-merch-store-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 27px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .group-work-with-us {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 13.2px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .item-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 5px 11.98px 5px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .link-15 {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.02px;
+  height: 14px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .item-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 5px 18.34px 5px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-21 {
+  color: var(--x-1mercury);
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+  line-height: 24px;
+  margin-bottom: -4px;
+  margin-top: -6px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .vector-svg-2 {
+  flex: 0 0 auto;
+  margin-left: -0.34px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-findstore {
+  height: 354px;
+  position: relative;
+  width: 125.4px;
+}
+
+.www-kfc-com-au-by .find-KFC-svg {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 11px;
+}
+
+.www-kfc-com-au-by .link-find-a-KFC {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 22px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  white-space: nowrap;
+}
+
+.www-kfc-com-au-by .div-download-app {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 354px;
+  padding: 0px 0px 244px 30px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-social-btns-aus {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-row-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0.01px 0px;
+  justify-content: space-between;
+  padding: 0px 0.01px 30px 258px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-column-margin {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  min-width: 396.85px;
+  padding: 0px 114.01px 0px 114.59px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-column {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-footer-copylink {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .list-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.2px;
+  opacity: 0.9;
+  padding: 5px 8px 0px 6px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .item-link-privacy {
+  color: var(--x-1alto);
+  font-family: "Inter", Helvetica;
+  font-size: 11.2px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .item-link {
+  height: 12px;
+  position: relative;
+  width: 83.58px;
+}
+
+.www-kfc-com-au-by .pseudo {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 0;
+  padding: 4px 2.41px 4px 3px;
+  position: absolute;
+  top: -14px;
+}
+
+.www-kfc-com-au-by .text-wrapper-22 {
+  color: var(--x-1alto);
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .text-wrapper-23 {
+  color: var(--x-1alto);
+  font-family: "Inter", Helvetica;
+  font-size: 10.9px;
+  font-weight: 400;
+  height: 22px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: -6px;
+  white-space: nowrap;
+}
+
+.www-kfc-com-au-by .item-link-2 {
+  height: 12px;
+  position: relative;
+  width: 126.12px;
+}
+
+.www-kfc-com-au-by .text-wrapper-24 {
+  color: var(--x-1alto);
+  font-family: "Inter", Helvetica;
+  font-size: 11.2px;
+  font-weight: 400;
+  height: 22px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: -6px;
+  white-space: nowrap;
+}
+
+.www-kfc-com-au-by .item-link-3 {
+  height: 12px;
+  position: relative;
+  width: 38.05px;
+}
+
+.www-kfc-com-au-by .text-wrapper-25 {
+  color: var(--x-1alto);
+  font-family: "Inter", Helvetica;
+  font-size: 11.4px;
+  font-weight: 400;
+  height: 22px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: -6px;
+  white-space: nowrap;
+}
+
+.www-kfc-com-au-by .item-link-4 {
+  height: 12px;
+  position: relative;
+  width: 60.88px;
+}
+
+.www-kfc-com-au-by .text-wrapper-26 {
+  color: var(--x-1alto);
+  font-family: "Inter", Helvetica;
+  font-size: 11.1px;
+  font-weight: 400;
+  height: 22px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: -6px;
+  white-space: nowrap;
+}
+
+.www-kfc-com-au-by .p-copyright-text {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  opacity: 0.9;
+  padding: 0px 23.82px 0px 24.03px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .text-wrapper-27 {
+  color: var(--x-1alto);
+  font-family: "Inter", Helvetica;
+  font-size: 11.2px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-column-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 15.95px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .list-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 5px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .list-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 0px 0px 4px 10px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .item-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-header-container {
+  align-items: flex-start;
+  background-color: var(--x-1nero);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 51px;
+  width: 1500px;
+}
+
+.www-kfc-com-au-by .banner {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 159.75px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-sc-bdvvtl {
+  align-items: flex-start;
+  background-color: var(--x-1nero);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--x-1alto);
+  display: flex;
+  height: 100px;
+  justify-content: space-between;
+  max-width: 1180px;
+  padding: 0px 0.5px 0px 0px;
+  position: relative;
+  width: 1180px;
+}
+
+.www-kfc-com-au-by .div-header-logo-2 {
+  flex: 0 0 auto;
+  height: 99px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-menu-links {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 99px;
+  justify-content: center;
+  margin-left: -7.63e-6px;
+  padding: 41px 0px;
+  position: relative;
+  width: 288.59px;
+}
+
+.www-kfc-com-au-by .div-menu-links-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  height: 17px;
+  margin-right: -0.57px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-menu-link-margin {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 40px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-menu-link {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 17px;
+  justify-content: center;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-menu-link-name {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -3.5px;
+  margin-top: -3.5px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .text-wrapper-28 {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-menu-link-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -0.2px;
+  padding: 0px 39.56px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .promos-rewards-2 {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 13.3px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-menu-link-name-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: -0.2px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-29 {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 13.2px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .div-right-nav {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  margin-left: -7.63e-6px;
+  min-width: 245px;
+  padding: 29px 0px 29px 540.88px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-right-nav-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3.81e-6px;
+  height: 42px;
+  padding: 0px 22.28px 0px 60.02px;
+  position: relative;
+  width: 245px;
+}
+
+.www-kfc-com-au-by .div-sign-in {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 42px;
+  justify-content: center;
+  padding: 13px 0px;
+  position: relative;
+  width: 112.7px;
+}
+
+.www-kfc-com-au-by .div-account-wrapper {
+  align-self: stretch;
+  border-color: var(--x-1mercury);
+  border-right-style: solid;
+  border-right-width: 1px;
+  height: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-account {
+  height: 24px;
+  left: 15px;
+  position: relative;
+  top: -4px;
+  width: 90px;
+}
+
+.www-kfc-com-au-by .account-icon-svg {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 18px;
+}
+
+.www-kfc-com-au-by .text-wrapper-30 {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 13.2px;
+  font-weight: 500;
+  height: 24px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-kfc-com-au-by .div-cart-image {
+  align-self: stretch;
+  position: relative;
+  width: 50px;
+}
+
+.www-kfc-com-au-by .div-shopping-cart-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 43px;
+  position: relative;
+  top: -1px;
+}
+
+.www-kfc-com-au-by .div-shopping-cart {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-bottom: -7px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .link-16 {
+  align-self: stretch;
+  background-image: url(../../../static/img/bucket-cart-icon-svg-fill.svg);
+  background-size: 100% 100%;
+  position: relative;
+  width: 50px;
+}
+
+.www-kfc-com-au-by .text-wrapper-31 {
+  color: var(--x-1shark);
+  font-family: "Inter", Helvetica;
+  font-size: 12.4px;
+  font-weight: 700;
+  height: 55px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 55px;
+  position: absolute;
+  text-align: center;
+  top: -2px;
+  white-space: nowrap;
+}
+
+.www-kfc-com-au-by .div-headbottomparent-wrapper {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--x-1shark);
+  display: flex;
+  height: 68px;
+  justify-content: center;
+  padding: 12px 530.53px 12px 530.52px;
+  position: relative;
+  width: 100%;
+}
+
+.www-kfc-com-au-by .div-headbottomparent-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 44px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .div-headbottomtxt-wrapper {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  min-width: 253.65px;
+  padding: 12px 20px 12px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .LET-s-ORDER-FOR-PICK-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 1.65px 0px 0px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .LET-s-ORDER-FOR-PICK {
+  color: var(--x-1nero);
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-kfc-com-au-by .button-start-order-2 {
+  align-items: center;
+  background-color: var(--x-1monza);
+  border-radius: 22.4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 44px;
+  min-width: 164.8px;
+  padding: 0px 40px;
+  position: relative;
+}
+
+.www-kfc-com-au-by .text-wrapper-32 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--x-1nero);
+  display: -webkit-box;
+  font-family: "Inter", Helvetica;
+  font-size: 13.4px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
